@@ -1,0 +1,95 @@
+/** xmyslivec.cz
+ *
+ * css inspired by [Miro](https://hroncok.cz/)
+ *
+ */
+
+/* general properties */
+body {
+    background: #000000;
+    color: #00FF00;
+    font-family: "Courier New", "Lucida Console", "initial";
+    font-size: 150%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+}
+
+a {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* div styles */
+#center {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#left {
+    width: 48%;
+    float: left;
+    text-align: right;
+    padding: 4px;
+}
+
+#right {
+    width: 48%;
+    float: right;
+    text-align: left;
+    padding: 4px;
+}
+
+/* item styles */
+#left a {
+    padding-right: 30px;
+    background-size: 25px;
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+#right a {
+    padding-left: 30px;
+    background-size: 25px;
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+/* item pictures */
+#a_keybase {
+    background: url("../img/keybase.png");
+}
+
+#a_mojeid {
+    background: url("../img/mojeid.png");
+}
+
+#a_github {
+    background: url("../img/github.png");
+}
+
+#a_twitter {
+    background: url("../img/twitter.png");
+}
+
+#a_gravatar {
+    background: url("../img/gravatar.png");
+}
+
+#a_bitcoin {
+    background: url("../img/bitcoin.png");
+}
+
+#a_pgp {
+    background: url("../img/pgp.png");
+}
+
+#a_email {
+    background: url("../img/email.png");
+}
