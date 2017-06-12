@@ -32,33 +32,35 @@ a:hover {
     margin: 0 auto;
 }
 
-.left {
+.left,.right {
     width: 48%;
+    padding: 4px;
+}
+
+.left {
     float: left;
     text-align: right;
-    padding: 4px;
 }
 
 .right {
-    width: 48%;
     float: right;
     text-align: left;
-    padding: 4px;
 }
 
 /* item styles */
+.left a,.right a {
+    background-size: 25px;
+    background-repeat: no-repeat;
+}
+
 .left a {
     padding-right: 30px;
-    background-size: 25px;
     background-position: center right;
-    background-repeat: no-repeat;
 }
 
 .right a {
     padding-left: 30px;
-    background-size: 25px;
     background-position: center left;
-    background-repeat: no-repeat;
 }
 
 /* item pictures */
