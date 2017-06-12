@@ -27,19 +27,19 @@ a:hover {
 }
 
 /* div styles */
-#center {
+.center {
     width: 80%;
     margin: 0 auto;
 }
 
-#left {
+.left {
     width: 48%;
     float: left;
     text-align: right;
     padding: 4px;
 }
 
-#right {
+.right {
     width: 48%;
     float: right;
     text-align: left;
@@ -47,14 +47,14 @@ a:hover {
 }
 
 /* item styles */
-#left a {
+.left a {
     padding-right: 30px;
     background-size: 25px;
     background-position: center right;
     background-repeat: no-repeat;
 }
 
-#right a {
+.right a {
     padding-left: 30px;
     background-size: 25px;
     background-position: center left;
@@ -63,33 +63,33 @@ a:hover {
 
 /* item pictures */
 #a_keybase {
-    background: url("../img/keybase.png");
+    background-image: url("../img/keybase.png");
 }
 
 #a_mojeid {
-    background: url("../img/mojeid.png");
+    background-image: url("../img/mojeid.png");
 }
 
 #a_github {
-    background: url("../img/github.png");
+    background-image: url("../img/github.png");
 }
 
 #a_twitter {
-    background: url("../img/twitter.png");
+    background-image: url("../img/twitter.png");
 }
 
 #a_gravatar {
-    background: url("../img/gravatar.png");
+    background-image: url("../img/gravatar.png");
 }
 
 #a_bitcoin {
-    background: url("../img/bitcoin.png");
+    background-image: url("../img/bitcoin.png");
 }
 
 #a_pgp {
-    background: url("../img/pgp.png");
+    background-image: url("../img/pgp.png");
 }
 
 #a_email {
-    background: url("../img/email.png");
+    background-image: url("../img/email.png");
 }
