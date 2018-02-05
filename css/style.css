@@ -82,6 +82,10 @@ a:hover {
     background-image: url("../img/twitter.png");
 }
 
+#a_litecoin {
+    background-image: url("../img/litecoin.png");
+}
+
 #a_bitcoin {
     background-image: url("../img/bitcoin.png");
 }
