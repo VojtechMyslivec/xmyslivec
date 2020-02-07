@@ -51,8 +51,6 @@ a:hover {
 .left a,.right a {
     background-size: 25px;
     background-repeat: no-repeat;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 .left a {
