@@ -9,8 +9,8 @@ Contact: mailto:vojtech@xmyslivec.cz
 Contact: https://twitter.com/VojtaMyslivec
 
 # PGP key
-# Fingerprint: C680 7B57 665D 3F42 1AFA  03DA 3F7E 192B 1349 B484
-Encryption: https://xmyslivec.cz/files/vojtech_myslivec-0x3F7E192B1349B484.asc
+# Fingerprint: 732D 04D2 FE39 78E2 5C0E  BC32 CC6F 5CCE 3EB2 FC93
+Encryption: https://xmyslivec.cz/files/vojtech_myslivec-0xCC6F5CCE3EB2FC93.asc
 
 # Signature of this file with key above
 Signature: https://xmyslivec.cz/.well-known/security.txt.asc
