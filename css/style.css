@@ -64,10 +64,6 @@ a:hover {
 }
 
 /* item pictures */
-#a_keybase {
-    background-image: url("../img/keybase.png");
-}
-
 #a_mojeid {
     background-image: url("../img/mojeid.png");
 }
