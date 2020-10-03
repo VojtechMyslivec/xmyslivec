@@ -64,28 +64,24 @@ a:hover {
 }
 
 /* item pictures */
-#a_github {
-    background-image: url("../img/github.png");
+#a_bitcoin {
+    background-image: url("../img/bitcoin.png");
 }
 
-#a_twitter {
-    background-image: url("../img/twitter.png");
+#a_email {
+    background-image: url("../img/email.png");
+}
+
+#a_github {
+    background-image: url("../img/github.png");
 }
 
 #a_litecoin {
     background-image: url("../img/litecoin.png");
 }
 
-#a_bitcoin {
-    background-image: url("../img/bitcoin.png");
-}
-
 #a_pgp {
     background-image: url("../img/pgp.png");
-}
-
-#a_email {
-    background-image: url("../img/email.png");
 }
 
 #a_signal {
@@ -94,4 +90,8 @@ a:hover {
 
 #a_telegram {
     background-image: url("../img/telegram.png");
+}
+
+#a_twitter {
+    background-image: url("../img/twitter.png");
 }
