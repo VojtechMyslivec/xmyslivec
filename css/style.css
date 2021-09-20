@@ -64,20 +64,12 @@ a:hover {
 }
 
 /* item pictures */
-#a_bitcoin {
-    background-image: url("../img/bitcoin.png");
-}
-
 #a_email {
     background-image: url("../img/email.png");
 }
 
 #a_github {
     background-image: url("../img/github.png");
-}
-
-#a_litecoin {
-    background-image: url("../img/litecoin.png");
 }
 
 #a_pgp {
