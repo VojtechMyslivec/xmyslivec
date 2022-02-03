@@ -72,6 +72,10 @@ a:hover {
     background-image: url("../img/github.png");
 }
 
+#a_gitlab {
+    background-image: url("../img/gitlab.png");
+}
+
 #a_pgp {
     background-image: url("../img/pgp.png");
 }
